@@ -59,8 +59,7 @@ This project simulates a virtual trading environment where users can interact wi
    ```
 
 ## 🎥 Demo
-https://drive.google.com/file/d/1azqIruzysWKU8-qHKT65uWnsdBJnsagY/view?usp=sharing
-
+https://drive.google.com/file/d/1IX6d_hKO85lWnP6ViXErdAfw6v8qgtLM/view?usp=sharing
 ## 📁 Project Files
 
 * `stock_simulator.py` → Python script
